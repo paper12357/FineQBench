@@ -1,0 +1,32 @@
+{
+  "Personal information": {
+    "Full name": "Edinson Roberto Cavani Gómez",
+    "Date of birth": "1987-02-14",
+    "Age": "38",
+    "Place of birth": "Salto , Uruguay",
+    "Height": "1.85m",
+    "Position(s)": "Striker"
+  },
+  "Team information": {
+    "Current team": "Boca Juniors",
+    "Number": "10"
+  },
+  "Youth career": {
+    "2000–2005": "Danubio"
+  },
+  "Senior career": {
+    "2005–2007": "Danubio",
+    "2007–2011": "Palermo",
+    "2010–2011": "Napoli (loan)",
+    "2011–2013": "Napoli",
+    "2013–2020": "Paris Saint-Germain",
+    "2020–2022": "Manchester United",
+    "2022–2023": "Valencia",
+    "2023–": "Boca Juniors"
+  },
+  "International career": {
+    "2006–2007": "Uruguay U20",
+    "2012": "Uruguay Olympic ( O.P. )",
+    "2008–2022": "Uruguay"
+  }
+}

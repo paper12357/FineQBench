@@ -1,0 +1,31 @@
+{
+  "Personal information": {
+    "Full name": "Sergio Busquets Burgos",
+    "Date of birth": "1988-07-16",
+    "Age": "37",
+    "Place of birth": "Sabadell , Spain",
+    "Height": "1.90m",
+    "Position(s)": "Defensive midfielder"
+  },
+  "Team information": {
+    "Current team": "Inter Miami",
+    "Number": "5"
+  },
+  "Youth career": {
+    "1995–1996": "Badia",
+    "1996–1999": "Barberà Andalucía",
+    "1999–2003": "Lleida",
+    "2003–2005": "Jàbac Terrassa",
+    "2005–2007": "Barcelona"
+  },
+  "Senior career": {
+    "2007–2008": "Barcelona B",
+    "2008–2023": "Barcelona",
+    "2023–": "Inter Miami"
+  },
+  "International career": {
+    "2008–2009": "Spain U21",
+    "2009–2022": "Spain",
+    "2008–2016": "Catalonia"
+  }
+}

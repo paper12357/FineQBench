@@ -1,0 +1,33 @@
+{
+  "Personal information": {
+    "Full name": "Mario Götze",
+    "Date of birth": "1992-06-03",
+    "Age": "33",
+    "Place of birth": "Memmingen , Germany",
+    "Height": "1.76m",
+    "Position(s)": "Attacking midfielder , winger , forward"
+  },
+  "Team information": {
+    "Current team": "Eintracht Frankfurt",
+    "Number": "27"
+  },
+  "Youth career": {
+    "1995–1998": "SC Ronsberg",
+    "1998–2001": "FC Eintracht Hombruch",
+    "2001–2009": "Borussia Dortmund"
+  },
+  "Senior career": {
+    "2009–2013": "Borussia Dortmund",
+    "2013–2016": "Bayern Munich",
+    "2016–2020": "Borussia Dortmund",
+    "2020–2022": "PSV Eindhoven",
+    "2022–": "Eintracht Frankfurt"
+  },
+  "International career": {
+    "2007": "Germany U15",
+    "2007–2008": "Germany U16",
+    "2008–2009": "Germany U17",
+    "2009": "Germany U21",
+    "2010–2023": "Germany"
+  }
+}

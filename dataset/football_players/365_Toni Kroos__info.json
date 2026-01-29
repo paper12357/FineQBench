@@ -1,0 +1,27 @@
+{
+  "Personal information": {
+    "Full name": "Toni Kroos",
+    "Date of birth": "1990-01-04",
+    "Age": "35",
+    "Place of birth": "Greifswald , East Germany",
+    "Height": "1.83m",
+    "Position(s)": "Midfielder"
+  },
+  "Youth career": {
+    "1997–2002": "Greifswalder SC",
+    "2002–2006": "Hansa Rostock",
+    "2006–2007": "Bayern Munich"
+  },
+  "Senior career": {
+    "2007–2008": "Bayern Munich II",
+    "2007–2014": "Bayern Munich",
+    "2009–2010": "Bayer Leverkusen (loan)",
+    "2014–2024": "Real Madrid"
+  },
+  "International career": {
+    "2005–2007": "Germany U17",
+    "2009": "Germany U19",
+    "2008–2009": "Germany U21",
+    "2010–2024": "Germany"
+  }
+}

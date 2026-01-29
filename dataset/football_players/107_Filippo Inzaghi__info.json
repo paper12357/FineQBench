@@ -1,0 +1,41 @@
+{
+  "Personal information": {
+    "Full name": "Filippo Inzaghi",
+    "Date of birth": "1973-08-09",
+    "Age": "52",
+    "Place of birth": "Piacenza , Italy",
+    "Height": "1.81m",
+    "Position(s)": "Striker"
+  },
+  "Team information": {
+    "Current team": "Palermo (head coach)"
+  },
+  "Youth career": {
+    "1982–1985": "San Nicolò",
+    "1985–1991": "Piacenza"
+  },
+  "Senior career": {
+    "1991–1995": "Piacenza",
+    "1992–1993": "AlbinoLeffe (loan)",
+    "1993–1994": "Verona (loan)",
+    "1995–1996": "Parma",
+    "1996–1997": "Atalanta",
+    "1997–2001": "Juventus",
+    "2001–2012": "Milan"
+  },
+  "International career": {
+    "1993–1996": "Italy U21",
+    "1997–2007": "Italy"
+  },
+  "Managerial career": {
+    "2014–2015": "Milan",
+    "2016–2018": "Venezia",
+    "2018–2019": "Bologna",
+    "2019–2021": "Benevento",
+    "2021–2022": "Brescia",
+    "2022–2023": "Reggina",
+    "2023–2024": "Salernitana",
+    "2024–2025": "Pisa",
+    "2025–": "Palermo"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "Personal information": {
+    "Full name": "Kylian Mbappé Lottin",
+    "Date of birth": "1998-12-20",
+    "Age": "26",
+    "Place of birth": "Paris , France",
+    "Height": "1.80m",
+    "Position(s)": "Forward"
+  },
+  "Team information": {
+    "Current team": "Real Madrid",
+    "Number": "10"
+  },
+  "Youth career": {
+    "2004–2013": "Bondy",
+    "2013–2015": "Monaco"
+  },
+  "Senior career": {
+    "2015–2016": "Monaco II",
+    "2015–2018": "Monaco",
+    "2017–2018": "Paris Saint-Germain (loan)",
+    "2018–2024": "Paris Saint-Germain",
+    "2024–": "Real Madrid"
+  },
+  "International career": {
+    "2014": "France U17",
+    "2016": "France U19",
+    "2017–": "France"
+  }
+}

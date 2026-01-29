@@ -1,0 +1,32 @@
+{
+  "Personal information": {
+    "Full name": "Frenkie de Jong",
+    "Date of birth": "1997-05-12",
+    "Age": "28",
+    "Place of birth": "Gorinchem , Netherlands",
+    "Height": "1.82m",
+    "Position(s)": "Midfielder"
+  },
+  "Team information": {
+    "Current team": "Barcelona",
+    "Number": "21"
+  },
+  "Youth career": {
+    "": "RKC Waalwijk",
+    "2013–2015": "Willem II"
+  },
+  "Senior career": {
+    "2015": "Willem II (loan)",
+    "2015–2017": "Jong Ajax",
+    "2016–2019": "Ajax",
+    "2019–": "Barcelona"
+  },
+  "International career": {
+    "2012": "Netherlands U15",
+    "2014–2015": "Netherlands U18",
+    "2015–2016": "Netherlands U19",
+    "2016": "Netherlands U20",
+    "2017": "Netherlands U21",
+    "2018–": "Netherlands"
+  }
+}

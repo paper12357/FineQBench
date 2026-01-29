@@ -1,0 +1,753 @@
+California
+Texas
+Florida
+New York (state)
+Illinois
+Ontario
+Quebec
+British Columbia
+New South Wales
+Victoria (state)
+Queensland
+Western Australia
+Bavaria
+Baden-Württemberg
+North Rhine-Westphalia
+Hesse
+Île-de-France
+Provence-Alpes-Côte d'Azur
+Occitania (administrative region)
+Catalonia
+Andalusia
+Madrid
+Scotland
+Wales
+Northern Ireland
+Greater London
+Maharashtra
+Uttar Pradesh
+Tamil Nadu
+Karnataka
+West Bengal
+Gujarat
+Punjab, India
+Sindh
+Punjab, Pakistan
+Khyber Pakhtunkhwa
+New Taipei City
+Guangdong
+Zhejiang
+Jiangsu
+Shandong
+Sichuan
+Henan
+Hubei
+Hebei
+Lombardy
+Sicily
+Veneto
+Piedmont
+Castile and León
+Castilla–La Mancha
+Flanders
+Wallonia
+São Paulo (state)
+Rio de Janeiro (state)
+Minas Gerais
+Buenos Aires Province
+Kantō region
+Kansai region
+Tōhoku region
+Hokkaido
+Seoul metropolitan area
+Gyeonggi Province
+Uusimaa
+Stockholm County
+Oslo
+Moscow Oblast
+Saint Petersburg
+Amur Oblast
+Tuscany
+Galicia (Spain)
+Faroe Islands
+Greenland
+New England
+Midwestern United States
+Pacific Northwest
+Great Plains
+Chiang Mai province
+Bangkok Metropolitan Region
+Gauteng
+Western Cape
+Eastern Cape
+Northern Territory
+Auckland Region
+Wellington Region
+Dubai
+Abu Dhabi
+Doha
+Riyadh Province
+Mecca Province
+Eastern Province, Saudi Arabia
+Tokyo
+Osaka
+Kyoto
+Yokohama
+Nagoya
+Sapporo
+Seoul
+Busan
+Beijing
+Shanghai
+Guangzhou
+Shenzhen
+Chengdu
+Hong Kong
+Macau
+Taipei
+Kaohsiung
+Singapore
+Bangkok
+Hanoi
+Ho Chi Minh City
+Jakarta
+Manila
+Kuala Lumpur
+New Delhi
+Mumbai
+Bengaluru
+Chennai
+Hyderabad
+Karachi
+Lahore
+Dhaka
+Colombo
+Kathmandu
+Male
+Dubai
+Abu Dhabi
+Doha
+Riyadh
+Jeddah
+Mecca
+Medina
+Cairo
+Alexandria
+Casablanca
+Rabat
+Tunis
+Algiers
+Johannesburg
+Cape Town
+Durban
+Nairobi
+Addis Ababa
+Lagos
+Abuja
+Accra
+Kigali
+Harare
+London
+Manchester
+Birmingham
+Edinburgh
+Dublin
+Paris
+Lyon
+Marseille
+Berlin
+Hamburg
+Munich
+Frankfurt
+Cologne
+Amsterdam
+Rotterdam
+Brussels
+Antwerp
+Luxembourg City
+Zurich
+Geneva
+Bern
+Vienna
+Prague
+Warsaw
+Budapest
+Bucharest
+Sofia
+Athens
+Istanbul
+Ankara
+İzmir
+Moscow
+Saint Petersburg
+Kazan
+Yekaterinburg
+Stockholm
+Oslo
+Copenhagen
+Helsinki
+Reykjavík
+Rome
+Milan
+Naples
+Venice
+Florence
+Barcelona
+Madrid
+Valencia
+Lisbon
+Porto
+New York City
+Los Angeles
+Chicago
+Houston
+Phoenix, Arizona
+Philadelphia
+San Antonio
+San Diego
+Dallas
+San Jose, California
+Seattle
+Miami
+Atlanta
+Boston
+Washington, D.C.
+Detroit
+Toronto
+Montreal
+Vancouver
+Ottawa
+Calgary
+Mexico City
+Guadalajara
+Monterrey
+Buenos Aires
+Rosario
+Córdoba, Argentina
+Santiago
+Valparaíso
+Bogotá
+Medellín
+Quito
+Lima
+Caracas
+Panama City
+Havana
+San Juan, Puerto Rico
+Sydney
+Melbourne
+Brisbane
+Perth
+Auckland
+Wellington
+Christchurch
+Suva
+Honolulu
+Tehran
+Baghdad
+Damascus
+Beirut
+Jerusalem
+Tel Aviv
+Amman
+Kuwait City
+Muscat
+Tashkent
+Astana
+Bishkek
+Yerevan
+Tbilisi
+Baku
+Ulaanbaatar
+Ashgabat
+Helsinki
+Tallinn
+Riga
+Vilnius
+Belgrade
+Zagreb
+Sarajevo
+Skopje
+Podgorica
+Tirana
+Pristina
+Mount Everest
+K2
+Kangchenjunga
+Lhotse
+Makalu
+Denali
+Mount Kilimanjaro
+Mount Elbrus
+Mont Blanc
+Mount Fuji
+Rocky Mountains
+Andes
+Himalayas
+Alps
+Ural Mountains
+Atlas Mountains
+Great Dividing Range
+Appalachian Mountains
+Sahara
+Gobi Desert
+Atacama Desert
+Death Valley
+Amazon River
+Nile
+Yangtze
+Yellow River
+Mississippi River
+Ganges
+Indus River
+Danube
+Rhine
+Seine
+River Thames
+Volga
+Mekong
+Tigris
+Euphrates
+Congo River
+Lake Superior
+Lake Victoria
+Lake Baikal
+Lake Tahoe
+Lake Geneva
+Lake Titicaca
+Great Lakes
+Caspian Sea
+Black Sea
+Mediterranean Sea
+Red Sea
+Aral Sea
+Caribbean Sea
+Baltic Sea
+North Sea
+Arabian Sea
+South China Sea
+East China Sea
+Yellow Sea
+Sea of Japan
+Pacific Ocean
+Atlantic Ocean
+Indian Ocean
+Arctic Ocean
+Southern Ocean
+Grand Canyon
+Glen Coe
+Yosemite Valley
+Niagara Falls
+Angel Falls
+Victoria Falls
+Iguazu Falls
+Suez Canal
+Panama Canal
+Gulf of Mexico
+Persian Gulf
+Bay of Bengal
+Hudson Bay
+Gulf of Thailand
+Lake Como
+Mount Etna
+Mount Vesuvius
+Mount Kenya
+Mount Ararat
+Carpathian Mountains
+Karakoram
+Great Rift Valley
+Lake Ontario
+Lake Huron
+Lake Erie
+Lake Michigan
+Lake Chad
+Lake Urmia
+Crater Lake
+Poyang Lake
+Dongting Lake
+Tarim Basin
+Tibetan Plateau
+Geomorphology
+Cartography
+Spatial analysis
+Geographic information system
+Topography
+Plate tectonics
+Continental drift
+Subduction
+Fault (geology)
+Great Rift Valley
+Volcanism
+Seismic wave
+Earthquake
+Epicenter
+Tsunami
+Erosion
+Weathering
+Sedimentation
+Stratigraphy
+Geologic time scale
+Fossil
+Mineral
+Rock (geology)
+Igneous rock
+Metamorphic rock
+Sedimentary rock
+Soil
+Permafrost
+Glacier
+Ice sheet
+Iceberg
+River delta
+Floodplain
+Watershed
+Aquifer
+Groundwater
+Biome
+Ecosystem
+Savanna
+Rainforest
+Taiga
+Tundra
+Steppe
+Coral reef
+Mangrove
+Biodiversity
+Deforestation
+Land use
+Urbanization
+Megacity
+Rural area
+Population density
+Migration
+Demography
+Birth rate
+Mortality rate
+Carrying capacity
+Sustainable development
+Renewable resource
+Non-renewable resource
+Desertification
+Drought
+Famine
+Globalization
+Cultural landscape
+Human geography
+Physical geography
+Economic geography
+Integrated geography
+Spatial analysis
+Longitude
+Latitude
+Prime meridian
+Equator
+Tropics
+Arctic Circle
+Antarctic Circle
+Time zone
+International Date Line
+Geoid
+Ellipsoid
+Map projection
+Mercator projection
+Robinson projection
+Remote sensing
+Satellite imagery
+Digital elevation model
+Climate classification
+Continental climate
+Oceanic climate
+Monsoon
+Orographic lift
+Rain shadow
+Windward and leeward
+Windward and leeward
+Climate
+Weather
+Atmosphere of Earth
+Greenhouse effect
+Climate change
+Climate change
+Carbon cycle
+Carbon sink
+Greenhouse gas emissions
+Carbon sequestration
+Atmospheric pressure
+Humidity
+Dew point
+Precipitation
+Rain
+Snow
+Hail
+Sleet
+Thunderstorm
+Lightning
+Tornado
+Tropical cyclone
+Typhoon
+Cyclone
+Monsoon
+El Niño–Southern Oscillation
+El Niño–Southern Oscillation
+Jet stream
+Trade winds
+Westerlies
+Polar vortex
+Heat wave
+Cold wave
+Blizzard
+Fog
+Mist
+Smog
+Air pollution
+Particulate matter
+Ozone layer
+Ultraviolet index
+Sunlight
+Greenhouse gas
+Carbon dioxide
+Methane
+Nitrous oxide
+Sea level rise
+Ocean acidification
+Coral bleaching
+Water pollution
+Eutrophication
+Deforestation
+Reforestation
+Desert climate
+Tropical climate
+Temperate climate
+Polar climate
+Mediterranean climate
+Oceanic climate
+Continental climate
+Semi-arid climate
+Humid subtropical climate
+Ocean current
+Gulf Stream
+Elbe
+Storm surge
+Flood
+Drought
+Wildfire
+Heat index
+Wind chill
+Tropical cyclone
+Atmospheric river
+Air mass
+Weather front
+Warm front
+Cold front
+Occluded front
+Stationary front
+Barometer
+Anemometer
+Hygrometer
+Weather satellite
+Weather radar
+Climate model
+Environmental degradation
+Sustainability
+Renewable energy
+Solar power
+Wind power
+Hydropower
+Geothermal energy
+Biomass
+Net-zero emissions
+Net-zero emissions
+Afghanistan
+Albania
+Algeria
+Andorra
+Angola
+Antigua and Barbuda
+Argentina
+Armenia
+Australia
+Austria
+Azerbaijan
+The Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Brazil
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cape Verde
+Cambodia
+Cameroon
+Canada
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Democratic Republic of the Congo
+Republic of the Congo
+Costa Rica
+Croatia
+Cuba
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Fiji
+Finland
+France
+Gabon
+The Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+North Korea
+South Korea
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Macedonia
+Norway
+Oman
+Pakistan
+Palau
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Rwanda
+Saint Kitts and Nevis
+Saint Lucia
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+São Tomé and Príncipe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe

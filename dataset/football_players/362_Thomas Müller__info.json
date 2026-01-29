@@ -1,0 +1,30 @@
+{
+  "Personal information": {
+    "Full name": "Thomas Müller",
+    "Date of birth": "1989-09-13",
+    "Age": "36",
+    "Place of birth": "Weilheim in Oberbayern , West Germany",
+    "Height": "1.85m",
+    "Position(s)": "Forward , attacking midfielder"
+  },
+  "Team information": {
+    "Current team": "Vancouver Whitecaps",
+    "Number": "13"
+  },
+  "Youth career": {
+    "1993–2000": "TSV Pähl",
+    "2000–2007": "Bayern Munich"
+  },
+  "Senior career": {
+    "2007–2009": "Bayern Munich II",
+    "2008–2025": "Bayern Munich",
+    "2025–": "Vancouver Whitecaps"
+  },
+  "International career": {
+    "2004–2005": "Germany U16",
+    "2007": "Germany U19",
+    "2008": "Germany U20",
+    "2009": "Germany U21",
+    "2010–2024": "Germany"
+  }
+}

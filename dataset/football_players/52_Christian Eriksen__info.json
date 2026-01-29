@@ -1,0 +1,33 @@
+{
+  "Personal information": {
+    "Full name": "Christian Dannemann Eriksen",
+    "Date of birth": "1992-02-14",
+    "Age": "33",
+    "Place of birth": "Middelfart , Denmark",
+    "Height": "1.82m",
+    "Position(s)": "Midfielder"
+  },
+  "Team information": {
+    "Current team": "VfL Wolfsburg",
+    "Number": "24"
+  },
+  "Youth career": {
+    "1995–2005": "Middelfart G&BK",
+    "2005–2008": "OB",
+    "2008–2010": "Ajax"
+  },
+  "Senior career": {
+    "2010–2013": "Ajax",
+    "2013–2020": "Tottenham Hotspur",
+    "2020–2021": "Inter Milan",
+    "2022": "Brentford",
+    "2022–2025": "Manchester United",
+    "2025–": "VfL Wolfsburg"
+  },
+  "International career": {
+    "2007–2009": "Denmark U17",
+    "2009": "Denmark U19",
+    "2011": "Denmark U21",
+    "2010–": "Denmark"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "Personal information": {
+    "Full name": "Harry Edward Kane",
+    "Date of birth": "1993-07-28",
+    "Age": "32",
+    "Place of birth": "Leytonstone , London, England",
+    "Height": "6 ft 2 in (1.88 m)",
+    "Position(s)": "Striker"
+  },
+  "Team information": {
+    "Current team": "Bayern Munich",
+    "Number": "9"
+  },
+  "Youth career": {
+    "1999–2001": "Ridgeway Rovers",
+    "2001–2002": "Arsenal",
+    "2002–2004": "Ridgeway Rovers",
+    "2004": "Watford",
+    "2004–2009": "Tottenham Hotspur"
+  },
+  "Senior career": {
+    "2009–2023": "Tottenham Hotspur",
+    "2011": "Leyton Orient (loan)",
+    "2012": "Millwall (loan)",
+    "2012–2013": "Norwich City (loan)",
+    "2013": "Leicester City (loan)",
+    "2023–": "Bayern Munich"
+  },
+  "International career": {
+    "2010": "England U17",
+    "2010–2012": "England U19",
+    "2013": "England U20",
+    "2013–2015": "England U21",
+    "2015–": "England"
+  }
+}

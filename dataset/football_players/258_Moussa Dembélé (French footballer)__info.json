@@ -1,0 +1,34 @@
+{
+  "Personal information": {
+    "Full name": "Moussa Dembélé",
+    "Date of birth": "1996-07-12",
+    "Age": "29",
+    "Place of birth": "Pontoise , France",
+    "Height": "1.83m",
+    "Position(s)": "Striker"
+  },
+  "Team information": {
+    "Current team": "Al-Ettifaq",
+    "Number": "9"
+  },
+  "Youth career": {
+    "2002–2004": "US Cergy Clos",
+    "2004–2012": "Paris Saint-Germain",
+    "2012–2013": "Fulham"
+  },
+  "Senior career": {
+    "2013–2016": "Fulham",
+    "2016–2018": "Celtic",
+    "2018–2023": "Lyon",
+    "2021": "Atlético Madrid (loan)",
+    "2023–": "Al-Ettifaq"
+  },
+  "International career": {
+    "2011–2012": "France U16",
+    "2013": "France U17",
+    "2013–2014": "France U18",
+    "2014–2015": "France U19",
+    "2015–2016": "France U20",
+    "2016–2019": "France U21"
+  }
+}

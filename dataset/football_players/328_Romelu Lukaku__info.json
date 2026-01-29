@@ -1,0 +1,39 @@
+{
+  "Personal information": {
+    "Full name": "Romelu Lukaku Bolingoli",
+    "Date of birth": "1993-05-13",
+    "Age": "32",
+    "Place of birth": "Antwerp , Belgium",
+    "Height": "1.91m",
+    "Position(s)": "Striker"
+  },
+  "Team information": {
+    "Current team": "Napoli",
+    "Number": "9"
+  },
+  "Youth career": {
+    "1999–2003": "Rupel Boom",
+    "2003–2004": "KFC Wintam",
+    "2004–2006": "Lierse",
+    "2006–2009": "Anderlecht"
+  },
+  "Senior career": {
+    "2009–2011": "Anderlecht",
+    "2011–2014": "Chelsea",
+    "2012–2013": "West Bromwich Albion (loan)",
+    "2013–2014": "Everton (loan)",
+    "2014–2017": "Everton",
+    "2017–2019": "Manchester United",
+    "2019–2021": "Inter Milan",
+    "2021–2024": "Chelsea",
+    "2022–2023": "Inter Milan (loan)",
+    "2023–2024": "Roma (loan)",
+    "2024–": "Napoli"
+  },
+  "International career": {
+    "2008": "Belgium U15",
+    "2011": "Belgium U18",
+    "2009": "Belgium U21",
+    "2010–": "Belgium"
+  }
+}

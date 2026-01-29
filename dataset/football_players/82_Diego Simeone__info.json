@@ -1,0 +1,39 @@
+{
+  "Personal information": {
+    "Full name": "Diego Pablo Simeone González",
+    "Date of birth": "1970-04-28",
+    "Age": "55",
+    "Place of birth": "Buenos Aires , Argentina",
+    "Height": "1.77m",
+    "Position(s)": "Midfielder"
+  },
+  "Team information": {
+    "Current team": "Atlético Madrid (manager)"
+  },
+  "Youth career": {
+    "": "Vélez Sársfield"
+  },
+  "Senior career": {
+    "1987–1990": "Vélez Sársfield",
+    "1990–1992": "Pisa",
+    "1992–1994": "Sevilla",
+    "1994–1997": "Atlético Madrid",
+    "1997–1999": "Inter Milan",
+    "1999–2003": "Lazio",
+    "2003–2005": "Atlético Madrid",
+    "2005–2006": "Racing Club"
+  },
+  "International career": {
+    "1989": "Argentina U20",
+    "1996": "Argentina U23",
+    "1988–2002": "Argentina"
+  },
+  "Managerial career": {
+    "2006": "Racing Club",
+    "2006–2007": "Estudiantes",
+    "2007–2008": "River Plate",
+    "2009–2010": "San Lorenzo",
+    "2011": "Racing Club",
+    "2011–": "Atlético Madrid"
+  }
+}

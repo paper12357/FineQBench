@@ -1,0 +1,33 @@
+{
+  "Personal information": {
+    "Full name": "Masour Ousmane Dembélé",
+    "Date of birth": "1997-05-15",
+    "Age": "28",
+    "Place of birth": "Vernon , France",
+    "Height": "1.78m",
+    "Position(s)": "Forward"
+  },
+  "Team information": {
+    "Current team": "Paris Saint-Germain",
+    "Number": "10"
+  },
+  "Youth career": {
+    "2004–2009": "Madeleine Évreux",
+    "2009–2010": "Évreux",
+    "2010–2015": "Rennes"
+  },
+  "Senior career": {
+    "2014–2015": "Rennes II",
+    "2015–2016": "Rennes",
+    "2016–2017": "Borussia Dortmund",
+    "2017–2023": "Barcelona",
+    "2023–": "Paris Saint-Germain"
+  },
+  "International career": {
+    "2013–2014": "France U17",
+    "2014–2015": "France U18",
+    "2015": "France U19",
+    "2016": "France U21",
+    "2016–": "France"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "Personal information": {
+    "Full name": "Ángel Fabián Di María",
+    "Date of birth": "1988-02-14",
+    "Age": "37",
+    "Place of birth": "Rosario , Argentina",
+    "Height": "1.78m",
+    "Position(s)": "Winger , attacking midfielder"
+  },
+  "Team information": {
+    "Current team": "Rosario Central",
+    "Number": "11"
+  },
+  "Youth career": {
+    "1991–1992": "Torito",
+    "1992–2005": "Rosario Central"
+  },
+  "Senior career": {
+    "2005–2007": "Rosario Central",
+    "2007–2010": "Benfica",
+    "2010–2014": "Real Madrid",
+    "2014–2015": "Manchester United",
+    "2015–2022": "Paris Saint-Germain",
+    "2022–2023": "Juventus",
+    "2023–2025": "Benfica",
+    "2025–": "Rosario Central"
+  },
+  "International career": {
+    "2007": "Argentina U20",
+    "2008": "Argentina U23",
+    "2008–2024": "Argentina"
+  }
+}

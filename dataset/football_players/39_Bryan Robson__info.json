@@ -1,0 +1,33 @@
+{
+  "Personal information": {
+    "Full name": "Bryan Robson",
+    "Date of birth": "1957-01-11",
+    "Age": "68",
+    "Place of birth": "Chester-le-Street , England",
+    "Height": "1.75m",
+    "Position(s)": "Midfielder"
+  },
+  "Team information": {
+    "Current team": "Manchester United (global ambassador)"
+  },
+  "Youth career": {
+    "1972–1975": "West Bromwich Albion"
+  },
+  "Senior career": {
+    "1975–1981": "West Bromwich Albion",
+    "1981–1994": "Manchester United",
+    "1994–1997": "Middlesbrough"
+  },
+  "International career": {
+    "1975": "England Youth",
+    "1979–1980": "England B",
+    "1980–1991": "England"
+  },
+  "Managerial career": {
+    "1994–2001": "Middlesbrough",
+    "2003–2004": "Bradford City",
+    "2004–2006": "West Bromwich Albion",
+    "2007–2008": "Sheffield United",
+    "2009–2011": "Thailand U23"
+  }
+}

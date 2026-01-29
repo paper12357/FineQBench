@@ -1,0 +1,31 @@
+{
+  "Personal information": {
+    "Full name": "Marco Verratti",
+    "Date of birth": "1992-11-05",
+    "Age": "32",
+    "Place of birth": "Pescara , Italy",
+    "Height": "1.65m",
+    "Position(s)": "Midfielder"
+  },
+  "Team information": {
+    "Current team": "Al Duhail",
+    "Number": "6"
+  },
+  "Youth career": {
+    "2000–2001": "Manoppello",
+    "2001–2006": "Manoppello Arabona",
+    "2006–2008": "Pescara"
+  },
+  "Senior career": {
+    "2008–2012": "Pescara",
+    "2012–2023": "Paris Saint-Germain",
+    "2023–2025": "Al-Arabi",
+    "2025–": "Al Duhail"
+  },
+  "International career": {
+    "2010–2011": "Italy U19",
+    "2011–2012": "Italy U20",
+    "2012–2013": "Italy U21",
+    "2012–2023": "Italy"
+  }
+}

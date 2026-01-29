@@ -1,0 +1,40 @@
+{
+  "Personal information": {
+    "Full name": "Alexis Alejandro Sánchez Sánchez",
+    "Date of birth": "1988-12-19",
+    "Age": "36",
+    "Place of birth": "Tocopilla , Chile",
+    "Height": "1.69m",
+    "Position(s)": "Winger , striker"
+  },
+  "Team information": {
+    "Current team": "Sevilla",
+    "Number": "10"
+  },
+  "Youth career": {
+    "1999–2000": "Universidad Católica",
+    "2000–2003": "Escuela Bernardo O'Higgins",
+    "2004–2005": "Cobreloa"
+  },
+  "Senior career": {
+    "2005–2006": "Cobreloa",
+    "2006–2011": "Udinese",
+    "2006–2007": "Colo-Colo (loan)",
+    "2007–2008": "River Plate (loan)",
+    "2011–2014": "Barcelona",
+    "2014–2018": "Arsenal",
+    "2018–2020": "Manchester United",
+    "2019–2020": "Inter Milan (loan)",
+    "2020–2022": "Inter Milan",
+    "2022–2023": "Marseille",
+    "2023–2024": "Inter Milan",
+    "2024–2025": "Udinese",
+    "2025–": "Sevilla"
+  },
+  "International career": {
+    "2004": "Chile U15",
+    "2005": "Chile U17",
+    "2007": "Chile U20",
+    "2006–": "Chile"
+  }
+}

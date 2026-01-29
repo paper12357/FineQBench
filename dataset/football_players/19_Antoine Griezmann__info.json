@@ -1,0 +1,32 @@
+{
+  "Personal information": {
+    "Full name": "Antoine Griezmann",
+    "Date of birth": "1991-03-21",
+    "Age": "34",
+    "Place of birth": "Mâcon , France",
+    "Height": "1.76m",
+    "Position(s)": "Forward , attacking midfielder"
+  },
+  "Team information": {
+    "Current team": "Atlético Madrid",
+    "Number": "7"
+  },
+  "Youth career": {
+    "1997–1999": "Entente Charnay et Mâcon 71",
+    "1999–2005": "Mâcon",
+    "2005–2009": "Real Sociedad"
+  },
+  "Senior career": {
+    "2009–2014": "Real Sociedad",
+    "2014–2019": "Atlético Madrid",
+    "2019–2022": "Barcelona",
+    "2021–2022": "Atlético Madrid (loan)",
+    "2022–": "Atlético Madrid"
+  },
+  "International career": {
+    "2010": "France U19",
+    "2011": "France U20",
+    "2010–2012": "France U21",
+    "2014–2024": "France"
+  }
+}

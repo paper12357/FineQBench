@@ -1,0 +1,36 @@
+{
+  "Personal information": {
+    "Full name": "Juan Manuel Mata García",
+    "Date of birth": "1988-04-28",
+    "Age": "37",
+    "Place of birth": "Burgos , Spain",
+    "Height": "1.70m",
+    "Position(s)": "Attacking midfielder , winger"
+  },
+  "Team information": {
+    "Current team": "Melbourne Victory",
+    "Number": "64"
+  },
+  "Youth career": {
+    "2000–2003": "Real Oviedo",
+    "2003–2006": "Real Madrid"
+  },
+  "Senior career": {
+    "2006–2007": "Real Madrid Castilla",
+    "2007–2011": "Valencia",
+    "2011–2014": "Chelsea",
+    "2014–2022": "Manchester United",
+    "2022–2023": "Galatasaray",
+    "2023–2024": "Vissel Kobe",
+    "2024–2025": "Western Sydney Wanderers",
+    "2025–": "Melbourne Victory"
+  },
+  "International career": {
+    "2004": "Spain U17",
+    "2006–2007": "Spain U19",
+    "2007": "Spain U20",
+    "2007–2011": "Spain U21",
+    "2012": "Spain Olympic",
+    "2009–2016": "Spain"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "Personal information": {
+    "Full name": "Cristiano Ronaldo dos Santos Aveiro",
+    "Date of birth": "1985-02-05",
+    "Age": "40",
+    "Place of birth": "Funchal , Madeira, Portugal",
+    "Height": "1.87m",
+    "Position(s)": "Forward"
+  },
+  "Team information": {
+    "Current team": "Al-Nassr",
+    "Number": "7"
+  },
+  "Youth career": {
+    "1992–1995": "Andorinha",
+    "1995–1997": "Nacional",
+    "1997–2002": "Sporting CP"
+  },
+  "Senior career": {
+    "2002–2003": "Sporting CP",
+    "2003–2009": "Manchester United",
+    "2009–2018": "Real Madrid",
+    "2018–2021": "Juventus",
+    "2021–2022": "Manchester United",
+    "2023–": "Al-Nassr"
+  },
+  "International career": {
+    "2001": "Portugal U15",
+    "2001–2002": "Portugal U17",
+    "2003": "Portugal U20",
+    "2002–2003": "Portugal U21",
+    "2004": "Portugal U23",
+    "2003–": "Portugal"
+  }
+}

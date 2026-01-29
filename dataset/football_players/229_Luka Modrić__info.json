@@ -1,0 +1,33 @@
+{
+  "Personal information": {
+    "Full name": "Luka Modrić",
+    "Date of birth": "1985-09-09",
+    "Age": "40",
+    "Place of birth": "Zadar , SR Croatia, SFR Yugoslavia",
+    "Height": "1.72m",
+    "Position(s)": "Midfielder"
+  },
+  "Team information": {
+    "Current team": "AC Milan",
+    "Number": "14"
+  },
+  "Youth career": {
+    "1996–2000": "Zadar",
+    "2000–2003": "Dinamo Zagreb"
+  },
+  "Senior career": {
+    "2003–2008": "Dinamo Zagreb",
+    "2003–2004": "Zrinjski Mostar (loan)",
+    "2004–2005": "Inter Zaprešić (loan)",
+    "2008–2012": "Tottenham Hotspur",
+    "2012–2025": "Real Madrid",
+    "2025–": "AC Milan"
+  },
+  "International career": {
+    "2001": "Croatia U17",
+    "2003": "Croatia U18",
+    "2003–2004": "Croatia U19",
+    "2004–2005": "Croatia U21",
+    "2006–": "Croatia"
+  }
+}

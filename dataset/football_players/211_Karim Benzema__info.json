@@ -1,0 +1,32 @@
+{
+  "Personal information": {
+    "Full name": "Karim Mostafa Benzema",
+    "Date of birth": "1987-12-19",
+    "Age": "37",
+    "Place of birth": "Lyon , France",
+    "Height": "1.85m",
+    "Position(s)": "Striker"
+  },
+  "Team information": {
+    "Current team": "Al-Ittihad",
+    "Number": "9"
+  },
+  "Youth career": {
+    "1993–1996": "AS Des Buers Villeurbanne",
+    "1996–1997": "Bron",
+    "1997–2005": "Lyon"
+  },
+  "Senior career": {
+    "2004–2006": "Lyon II",
+    "2004–2009": "Lyon",
+    "2009–2023": "Real Madrid",
+    "2023–": "Al-Ittihad"
+  },
+  "International career": {
+    "2004": "France U17",
+    "2004–2005": "France U18",
+    "2005–2006": "France U19",
+    "2006": "France U21",
+    "2007–2022": "France"
+  }
+}

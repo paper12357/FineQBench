@@ -1,0 +1,33 @@
+{
+  "Personal information": {
+    "Full name": "Bruno Miguel Borges Fernandes",
+    "Date of birth": "1994-09-08",
+    "Age": "31",
+    "Place of birth": "Maia , Portugal",
+    "Height": "1.79m",
+    "Position(s)": "Midfielder"
+  },
+  "Team information": {
+    "Current team": "Manchester United",
+    "Number": "8"
+  },
+  "Youth career": {
+    "2002–2004": "Infesta",
+    "2004–2012": "Boavista",
+    "2005–2010": "Pasteleira (loan)"
+  },
+  "Senior career": {
+    "2012–2013": "Novara",
+    "2013–2016": "Udinese",
+    "2016–2017": "Sampdoria",
+    "2017–2020": "Sporting CP",
+    "2020–": "Manchester United"
+  },
+  "International career": {
+    "2012": "Portugal U19",
+    "2014": "Portugal U20",
+    "2014–2017": "Portugal U21",
+    "2016": "Portugal U23",
+    "2017–": "Portugal"
+  }
+}

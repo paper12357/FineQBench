@@ -1,0 +1,35 @@
+{
+  "Personal information": {
+    "Full name": "Erling Braut Haaland",
+    "Birth name": "Erling Braut Håland",
+    "Date of birth": "2000-07-21",
+    "Age": "25",
+    "Place of birth": "Leeds , West Yorkshire, England",
+    "Height": "1.95m",
+    "Position(s)": "Striker"
+  },
+  "Team information": {
+    "Current team": "Manchester City",
+    "Number": "9"
+  },
+  "Youth career": {
+    "2005–2016": "Bryne"
+  },
+  "Senior career": {
+    "2015–2016": "Bryne 2",
+    "2016–2017": "Bryne",
+    "2017": "Molde 2",
+    "2017–2019": "Molde",
+    "2019–2020": "Red Bull Salzburg",
+    "2020–2022": "Borussia Dortmund",
+    "2022–": "Manchester City"
+  },
+  "International career": {
+    "2015": "Norway U15",
+    "2016": "Norway U16",
+    "2017": "Norway U18",
+    "2018": "Norway U21",
+    "2019": "Norway U20",
+    "2019–": "Norway"
+  }
+}

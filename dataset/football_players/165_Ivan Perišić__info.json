@@ -1,0 +1,37 @@
+{
+  "Personal information": {
+    "Full name": "Ivan Perišić",
+    "Date of birth": "1989-02-02",
+    "Age": "36",
+    "Place of birth": "Split , SR Croatia , Yugoslavia",
+    "Height": "1.86m",
+    "Position(s)": "Winger"
+  },
+  "Team information": {
+    "Current team": "PSV",
+    "Number": "5"
+  },
+  "Youth career": {
+    "1998–2000": "NK Dalmatinac Split",
+    "2000–2006": "Hajduk Split",
+    "2006–2007": "Sochaux"
+  },
+  "Senior career": {
+    "2006–2009": "Sochaux II",
+    "2009": "Roeselare (loan)",
+    "2009–2011": "Club Brugge",
+    "2011–2013": "Borussia Dortmund",
+    "2013–2015": "VfL Wolfsburg",
+    "2015–2022": "Inter Milan",
+    "2019–2020": "Bayern Munich (loan)",
+    "2022–2024": "Tottenham Hotspur",
+    "2024": "Hajduk Split",
+    "2024–": "PSV"
+  },
+  "International career": {
+    "2005": "Croatia U17",
+    "2007": "Croatia U19",
+    "2009–2010": "Croatia U21",
+    "2011–": "Croatia"
+  }
+}

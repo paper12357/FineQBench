@@ -1,0 +1,34 @@
+{
+  "Personal information": {
+    "Full name": "Robin van Persie",
+    "Date of birth": "1983-08-06",
+    "Age": "42",
+    "Place of birth": "Rotterdam , Netherlands",
+    "Height": "1.83m",
+    "Position(s)": "Striker"
+  },
+  "Team information": {
+    "Current team": "Feyenoord (head coach)"
+  },
+  "Youth career": {
+    "1988–1999": "Excelsior",
+    "1999–2001": "Feyenoord"
+  },
+  "Senior career": {
+    "2001–2004": "Feyenoord",
+    "2004–2012": "Arsenal",
+    "2012–2015": "Manchester United",
+    "2015–2018": "Fenerbahçe",
+    "2018–2019": "Feyenoord"
+  },
+  "International career": {
+    "2000": "Netherlands U17",
+    "2001": "Netherlands U19",
+    "2002–2005": "Netherlands U21",
+    "2005–2017": "Netherlands"
+  },
+  "Managerial career": {
+    "2024–2025": "Heerenveen",
+    "2025–": "Feyenoord"
+  }
+}

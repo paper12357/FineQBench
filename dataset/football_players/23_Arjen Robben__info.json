@@ -1,0 +1,30 @@
+{
+  "Personal information": {
+    "Full name": "Arjen Robben",
+    "Date of birth": "1984-01-23",
+    "Age": "41",
+    "Place of birth": "Bedum , Netherlands",
+    "Height": "1.80m",
+    "Position(s)": "Right winger"
+  },
+  "Youth career": {
+    "1989–1996": "VV Bedum",
+    "1996–2000": "Groningen"
+  },
+  "Senior career": {
+    "2000–2002": "Groningen",
+    "2002–2004": "PSV",
+    "2004–2007": "Chelsea",
+    "2007–2009": "Real Madrid",
+    "2009–2019": "Bayern Munich",
+    "2020–2021": "Groningen"
+  },
+  "International career": {
+    "1999": "Netherlands U15",
+    "1999–2000": "Netherlands U16",
+    "2000": "Netherlands U17",
+    "2001–2002": "Netherlands U19",
+    "2001–2003": "Netherlands U21",
+    "2003–2017": "Netherlands"
+  }
+}

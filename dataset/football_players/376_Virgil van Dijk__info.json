@@ -1,0 +1,30 @@
+{
+  "Personal information": {
+    "Full name": "Virgil van Dijk",
+    "Date of birth": "1991-07-08",
+    "Age": "34",
+    "Place of birth": "Breda , Netherlands",
+    "Height": "1.95m",
+    "Position(s)": "Centre-back"
+  },
+  "Team information": {
+    "Current team": "Liverpool",
+    "Number": "4"
+  },
+  "Youth career": {
+    "": "WDS'19",
+    "1999–2010": "Willem II",
+    "2010–2011": "Groningen"
+  },
+  "Senior career": {
+    "2011–2013": "Groningen",
+    "2013–2015": "Celtic",
+    "2015–2018": "Southampton",
+    "2018–": "Liverpool"
+  },
+  "International career": {
+    "2011": "Netherlands U19",
+    "2011–2013": "Netherlands U21",
+    "2015–": "Netherlands"
+  }
+}

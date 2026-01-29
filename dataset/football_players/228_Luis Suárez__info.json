@@ -1,0 +1,35 @@
+{
+  "Personal information": {
+    "Full name": "Luis Alberto Suárez Díaz",
+    "Date of birth": "1987-01-24",
+    "Age": "38",
+    "Place of birth": "Salto , Uruguay",
+    "Height": "1.82m",
+    "Position(s)": "Striker"
+  },
+  "Team information": {
+    "Current team": "Inter Miami",
+    "Number": "9"
+  },
+  "Youth career": {
+    "1991–1994": "Sportivo Artigas",
+    "1994–2000": "Urreta",
+    "2001–2005": "Nacional"
+  },
+  "Senior career": {
+    "2005–2006": "Nacional",
+    "2006–2007": "Groningen",
+    "2007–2011": "Ajax",
+    "2011–2014": "Liverpool",
+    "2014–2020": "Barcelona",
+    "2020–2022": "Atlético Madrid",
+    "2022–2023": "Nacional",
+    "2023–2024": "Grêmio",
+    "2024–": "Inter Miami"
+  },
+  "International career": {
+    "2006–2007": "Uruguay U20",
+    "2012": "Uruguay Olympic ( O.P. )",
+    "2007–2024": "Uruguay"
+  }
+}
